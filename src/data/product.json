@@ -1,0 +1,64 @@
+[
+  {
+    "name": "SAMSUNG Galaxy S22 ",
+    "description": "8K SUPER STEADY VIDEO: Shoot videos that rival how epic your life is with stunning 8K recording, the highest recording resolution available on a smartphone; Video captured is effortlessly smooth, thanks to Auto Focus Video Stabilization on Galaxy S22",
+    "brand": "SAMSUNG ",
+    "imageUrl": "https://res.cloudinary.com/db8dxmiin/image/upload/v1658961901/productsImages/xmh1c9evfv3xyrpftulm.jpg",
+    "price": "999",
+    "category": "Electronics",
+    "createdAt": "2022-07-22T08:43:22.864Z",
+    "id": "lbtw8b4l5w7td9t",
+    "updatedAt": "2022-07-23T17:24:35.940Z"
+  },
+  {
+    "name": "SAMSUNG Galaxy A13",
+    "description": "LONG-LASTING BATTERY: Whatever your day has in store, this mobile phone’s 15W Fast Charging battery makes sure you’re ready for it and gives your charger a break",
+    "brand": "SAMSUNG",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61PkHEMqZfL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "price": "599",
+    "category": "Electronics",
+    "createdAt": "2022-07-22T09:00:41.804Z",
+    "id": "lbtw9m0l5w8fmx8",
+    "updatedAt": "2022-07-23T17:27:24.521Z"
+  },
+  {
+    "name": "SAMSUNG Galaxy A53",
+    "brand": "SAMSUNG",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61ZNIHIEUqL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "price": "45",
+    "category": "Electronics",
+    "description": "LONG-LASTING BATTERY: Your busy life deserves a battery built for busy; Whether you’re taking a video call on your commute, catching up on your favorite show or with friends and family, your long-lasting, super fast charging battery* has your back",
+    "createdAt": "2022-07-22T17:17:47.769Z",
+    "id": "lbtwcwl5wq6ws9"
+  },
+  {
+    "name": "SAMSUNG Galaxy A53",
+    "brand": "SAMSUNG",
+    "imageUrl": "https://m.media-amazon.com/images/I/71HN4P-pd5L._AC_SX466_.jpg",
+    "price": "45",
+    "category": "Electronics",
+    "description": "LONG-LASTING BATTERY: Your busy life deserves a battery built for busy; Whether you’re taking a video call on your commute, catching up on your favorite show or with friends and family, your long-lasting, super fast charging battery* has your back",
+    "createdAt": "2022-07-22T17:19:08.796Z",
+    "id": "lbtwcwl5wq8nb0"
+  },
+  {
+    "name": "Moto G Stylus 5G | 2022",
+    "brand": "Motorola",
+    "imageUrl": "https://m.media-amazon.com/images/I/61F0PjlfTkL._AC_SX466_.jpg",
+    "price": "655",
+    "category": "Electronics",
+    "description": "Unlocked for the freedom to choose your carrier. Compatible with AT&T, T-Mobile, and Verizon networks. Sim card not included. To use this Device on Verizon, first, provision your SIM through Verizon Wireless. Log in to your account on Verizon Wireless. Devices - activate or switch devices - activate.",
+    "createdAt": "2022-07-22T18:06:05.513Z",
+    "id": "lbtwcwl5wrx0p5"
+  },
+  {
+    "name": "BLU C5 Max",
+    "brand": "BLU",
+    "imageUrl": "https://m.media-amazon.com/images/I/81K7MKCjOrL._AC_SX679_.jpg",
+    "price": "49",
+    "category": "Electronics",
+    "description": "Unlocked and ready to use with your preferred GSM Carrier. Compatible with AT&T, T-Mobile, Metro PCS, and others. Sim card not included. (Not",
+    "createdAt": "2022-07-24T23:15:38.680Z",
+    "id": "lbtw1bol5zxut6g"
+  }
+]
